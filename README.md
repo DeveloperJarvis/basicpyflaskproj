@@ -29,3 +29,31 @@ my_flask_app/
 ├── requirements.txt
 ├── .gitignore
 └── run.py
+
+
+# Instructions to Run the Script
+1. Create the Script File:
+
+Open your terminal.
+Create a new file named create_flask_structure.sh:
+bash
+Run
+Copy code
+touch create_flask_structure.sh
+Edit the Script:
+
+Open the file in a text editor (e.g., nano, vim, or any GUI text editor) and paste the above script into it.
+Make the Script Executable:
+
+Run the following command to make the script executable:
+bash
+Run
+Copy code
+chmod +x create_flask_structure.sh
+Run the Script:
+
+Execute the script to create the project structure:
+bash
+Run
+Copy code
+./create_flask_structure.sh
