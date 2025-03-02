@@ -30,7 +30,7 @@ my_flask_app/
 ├── requirements.txt
 ├── .gitignore
 └── run.py
-
+```
 
 # Instructions to Run the Script
 # For Ubuntu/Linux
