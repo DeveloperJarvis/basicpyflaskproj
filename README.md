@@ -2,6 +2,7 @@
 python flask project structure
 
 # Basic Flask Project Structure
+```markdown
 my_flask_app/
 │
 ├── app/
