@@ -38,10 +38,9 @@ my_flask_app/
 
 Open your terminal.
 Create a new file named create_flask_structure.sh:
-bash
-Run
-Copy code
+```bash
 touch create_flask_structure.sh
+```
 
 2. Edit the Script:
 
@@ -49,22 +48,26 @@ Open the file in a text editor (e.g., nano, vim, or any GUI text editor) and pas
 Make the Script Executable:
 
 Run the following command to make the script executable:
-bash
-Run
-Copy code
+```bash
 chmod +x create_flask_structure.sh
+```
+
 3. Run the Script:
 
 Execute the script to create the project structure:
-bash
-Run
-Copy code
+```bash
 ./create_flask_structure.sh
-
+```
 
 
 # For Windows
 1. create new file create_flask_structure.bat
 2. Open cmd
-3. change directory path: cd C:\path\to\your\script
-4. execute: create_flask_structure.bat
+3. change directory path: 
+```bat
+cd C:\path\to\your\script
+```
+4. execute: 
+```bat
+create_flask_structure.bat
+```
