@@ -32,6 +32,7 @@ my_flask_app/
 
 
 # Instructions to Run the Script
+# For Ubuntu/Linux
 1. Create the Script File:
 
 Open your terminal.
@@ -40,7 +41,8 @@ bash
 Run
 Copy code
 touch create_flask_structure.sh
-Edit the Script:
+
+2. Edit the Script:
 
 Open the file in a text editor (e.g., nano, vim, or any GUI text editor) and paste the above script into it.
 Make the Script Executable:
@@ -50,10 +52,18 @@ bash
 Run
 Copy code
 chmod +x create_flask_structure.sh
-Run the Script:
+3. Run the Script:
 
 Execute the script to create the project structure:
 bash
 Run
 Copy code
 ./create_flask_structure.sh
+
+
+
+# For Windows
+1. create new file create_flask_structure.bat
+2. Open cmd
+3. change directory path: cd C:\path\to\your\script
+4. execute: create_flask_structure.bat
