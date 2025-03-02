@@ -33,7 +33,7 @@ my_flask_app/
 ```
 
 # Instructions to Run the Script
-# For Ubuntu/Linux
+## For Ubuntu/Linux
 1. Create the Script File:
 
 Open your terminal.
@@ -59,8 +59,7 @@ Execute the script to create the project structure:
 ./create_flask_structure.sh
 ```
 
-
-# For Windows
+## For Windows
 1. create new file create_flask_structure.bat
 2. Open cmd
 3. change directory path: 
